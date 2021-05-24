@@ -1,4 +1,7 @@
 ---
 title: "ADummy's blog"
 ---
-<button onclick="" src="http://www.baidu.com">Click me</button>
+<a href = "https://www.baidu.com/" >
+  <button>Click me</button>
+</a >
+
