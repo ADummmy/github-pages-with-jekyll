@@ -1,4 +1,4 @@
 ---
 title: "ADummy's blog"
 ---
-<button onclick="">Click me</button>
+<button onclick="" src="http://www.baidu.com">Click me</button>
